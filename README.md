@@ -122,7 +122,7 @@ We implement the proposed method using MXNet Module API.
 #### Prerequirements (global)
 * Python>=3.5
 * numpy>=1.16 (lower versions should work as well, but not tested)
-* MXNet>=1.4.1 ([install guide](http://mxnet.incubator.apache.org/versions/master/install/index.html?platform=Linux&language=Python&processor=GPU))
+* MXNet>=1.4.1, <1.6 ([install guide](https://mxnet.incubator.apache.org/versions/1.7.0/get_started?version=v1.4.1&))
 * cv2=3.x (pip3 install opencv-python==3.4.5.20, other version should work as well, but not tested)
 
 > Tips: 
